@@ -1,4 +1,4 @@
-# React Project Series - NFT preview card component solution
+# React Project Series - The chat application
 
 This is a CHAT APPLICATION Built with the React technology. 
 
