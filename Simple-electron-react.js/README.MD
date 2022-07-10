@@ -1,6 +1,6 @@
 # React Project Series - Simple Electron React Application
 
-This is a Simple Electron React Application Built with the React technology. 
+This is a Simple Electron React Application Built with the React and Electron.js technology. 
 
 ## Table of contents
 
